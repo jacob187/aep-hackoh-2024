@@ -29,6 +29,10 @@ poetry install
 poetry shell
 ```
 
+#### For Jupyter
+
+- Run jupyter notebook. Using it in an editor does not work with Poetry.
+
 ### For the AEP Challenge
 
 - Make a directory files in the root to add org specific data.
