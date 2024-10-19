@@ -3,11 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
 # Jupyter Notebook
-*.ipynb_checkpoints/
-/aep-challange/aep_challange/notebooks/.ipynb_checkpoints/
+*.ipynb
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+**/*-checkpoint.ipynb
 
 *.ipynb
 # Distribution / packaging
