@@ -32,3 +32,7 @@ poetry shell
 ### For the AEP Challenge
 
 - Make a directory files in the root to add org specific data.
+
+```sh
+mkdir files
+```
