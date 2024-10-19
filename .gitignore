@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+# Jupyter Notebook
+*.ipynb_checkpoints/
+/aep-challange/aep_challange/notebooks/.ipynb_checkpoints/
 
+*.ipynb
 # Distribution / packaging
 .Python
 build/
