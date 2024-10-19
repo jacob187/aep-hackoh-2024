@@ -1,7 +1,7 @@
 import re
 
 
-def clean(text):
+def clean(text) -> str:
     text = re.sub("https?://\S+|www\.\S+", "", text)
     text = re.sub("\n", "", text)
     text = re.sub(r"\[NAME\]", "", text)
