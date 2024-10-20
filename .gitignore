@@ -4,13 +4,12 @@ __pycache__/
 *$py.class
 .python-version
 
-# Jupyter Notebook
-*.ipynb
-.ipynb_checkpoints/
+# # Jupyter Notebook
+# .ipynb_checkpoints/
 **/.ipynb_checkpoints/
-**/*-checkpoint.ipynb
+# **/*-checkpoint.ipynb
 
-*.ipynb
+# *.ipynb
 # Distribution / packaging
 .Python
 build/
